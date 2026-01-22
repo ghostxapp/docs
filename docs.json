@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "GhostX",
   "colors": {
-    "primary": "#1DA1F2",
-    "light": "#3AAFFF",
-    "dark": "#1A8CD8"
+    "primary": "#0005a8",
+    "light": "#ff7200",
+    "dark": "#ff7200"
   },
   "favicon": "/favicon.ico",
   "navigation": {
@@ -95,8 +95,7 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/ghostxdotso",
-      "github": "https://github.com/ghostxdotso"
+      "x": "https://x.com/useghostx"
     }
   }
 }
